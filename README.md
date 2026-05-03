@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Habibi Al Hob |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/habibi-al-hob/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الهوى في القلب شوقٌ أصيل
+> بنار الغرام روحي لكِ دوماً تميل
+> تعال إليَّ يا عشقي ونبضي الجميل
+> ففي عينيكَ ألقى حلمي الطويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
