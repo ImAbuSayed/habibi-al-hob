@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/habibi-al-hob/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Habibi Al Hob](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
