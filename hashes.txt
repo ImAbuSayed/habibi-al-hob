@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Habibi Al Hob
+
+This log tracks the cryptographic history and versioning for the song **Habibi Al Hob** (habibi-al-hob).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:25:52.268654 | `v1` | `fe54ca9d65ec3b64d66b262f23feafd3ff7a63eee444fcfe30941b5298f71194` | `ef8499358c518f9f9334c736d66d1e519ffae94037ce4c41673449334a8f0569` | `2026-05-09_habibi-al-hob-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
